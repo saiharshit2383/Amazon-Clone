@@ -17,7 +17,7 @@ A responsive Amazon clone built using **HTML, CSS, and JavaScript** to replicate
 ## 📂 Project Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/saiharshit2383/Amazon-Clone.git
    ```
 2. Open `index.html` in a browser.
 
